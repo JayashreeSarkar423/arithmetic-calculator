@@ -1,0 +1,11 @@
+a=int(input("Enter 1st number: "))
+b=int(input("Enter 2nd number: "))
+c=int(input("Enter number for exponential: "))
+print("The value after adding the numbers: ",(a+b))
+print("The value after substracting the numbers: ",(a-b))
+print("The value after dividing the numbers: ",(a/b))
+print("The value after multiplying the numbers: ",(a*b))
+print("The modulus of the number: ",(a%b))
+print("The exponential value: ",(a**c))
+print("The value of float division is: ",(a//b))       
+      
